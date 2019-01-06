@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slot Machine App</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_val">Set Value</string>
+    <string name="new_game">New Game</string>
+    <string name="amount_label">Amount:</string>
+    <string name="bank_label">Bank:</string>
+    <string name="pull_lever">Lever</string>
+</resources>
